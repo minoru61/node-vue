@@ -26,3 +26,4 @@ npm install -g @vue/cli
 vue create <プロジェクト名>
 $ cd my-poject
 $ npm run serve
+
