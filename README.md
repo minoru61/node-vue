@@ -27,3 +27,6 @@ vue create <プロジェクト名>
 $ cd my-poject
 $ npm run serve
 
+# vue routerを使う
+vue add router
+
